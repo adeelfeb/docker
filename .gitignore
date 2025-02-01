@@ -1,0 +1,22 @@
+# Ignore Docker-related files
+**/*.tar
+.docker/
+docker-data/
+
+# Ignore log files
+*.log
+
+# Ignore node_modules if it's a Node.js project inside the Docker container
+node_modules/
+
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore environment files
+.env
+.env.local
+
+# Ignore IDE configuration
+.vscode/
+.idea/
