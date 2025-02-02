@@ -1,0 +1,15 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "Docker is a platform that enables developers to automate the deployment, scaling, and management of applications inside lightweight, portable containers. Containers are isolated environments that package an application and its dependencies, ensuring consistency across different environments (e.g., development, testing, production). Here are the basics of Docker:",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
