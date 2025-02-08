@@ -1,0 +1,8 @@
+services:
+  web:
+    image: hello
+    container_name: mongodb
+
+  frontend:
+    image: imageName
+    container_name: frontend
